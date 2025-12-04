@@ -1,5 +1,5 @@
-#Name: Kinshuk Karol
-#roll number:2501730171
+#Name: shriram bishnoi
+#roll number:2501730170
 #Title: GradeBook Analyzer 
 
 def give_grade(score):
